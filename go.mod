@@ -4,7 +4,6 @@ go 1.12
 
 require (
 	github.com/allegro/bigcache v1.2.1 // indirect
-	github.com/btcsuite/btcd v0.22.0-beta // indirect
 	github.com/cespare/cp v1.1.1 // indirect
 	github.com/deckarep/golang-set v1.8.0 // indirect
 	github.com/ethereum/go-ethereum v1.10.15
